@@ -6,9 +6,7 @@ This repository contains the code for:
 
 ## Setup
 
-FocusVLA is built on top of OpenVLA-OFT. Before using this repository, first
-follow the official OpenVLA-OFT instructions to install the environment and
-prepare LIBERO evaluation dependencies.
+Before using this repository, first follow the official OpenVLA-OFT instructions to install the environment and prepare LIBERO evaluation dependencies.
 
 You also need to download:
 
